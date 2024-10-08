@@ -1,19 +1,31 @@
 # Documentation Générale
 
-### Téléassistance
 
-#### Objectifs principal
+### **Téléassistance**
+
+#### Sommaire
+
+* ###### Objectifs principal
+* ###### Objectifs secondaire
+* ###### Membres du grouge de projet
+* ###### Choix technique
+* ###### Difficultés rencontrées
+* ###### Solutions trouvées
+* ###### Améliorations possibles
+
+
+#### **Objectifs principal**
 
 
 ###### Configurer un accès sécurisé pour de la téléassistance sur un serveur **Windows Server 2022** en utilisant l'interface graphique depuis un client sous **Windows 10 pro**.
 
 Logiciel utiliser **TightVNC** ainsi que la **Connexion Bureau àdistance**
 
-#### Objectifs secondaire 
+#### **Objectifs secondaire** 
 
 Cree un script Powershell pour faciliter la connexion initiale de la téleassistance 
 
-Mise en contexte
+#### **Mise en contexte**
 
 
 
@@ -22,7 +34,7 @@ Mise en contexte
 
 
 
-Membres du grouge de projet
+#### **Membres du grouge de projet**
 
 
 
@@ -33,7 +45,7 @@ Membres du grouge de projet
 |   Semaine 2	|   	|   	|   	|   	|
 
 
-## Choix technique
+#### **Choix technique**
 
 
 * Virtualbox 7.1.2
@@ -42,13 +54,13 @@ Membres du grouge de projet
 * TightVNC version 2.8.8
 
 
-## Difficultés rencontrées
+#### **Difficultés rencontrées**
 
 * Problemes IP 
 * Reseau interne 
 
-## Solutions trouvées 
+#### **Solutions trouvées** 
 
 
 
-## Améliorations possibles 
+#### **Améliorations possibles** 
