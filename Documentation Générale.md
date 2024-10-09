@@ -41,7 +41,7 @@ Cree un script Powershell pour faciliter la connexion initiale de la téleassist
 
 |   	| Pruduct Owner 	|   Scrum Master 	|   	|   	|
 |---	|---	|---	|---	|---	|
-|   Semaine 1	| Antoine Paulay  	|  Arnaud T 	|   Damien 	|   	|
+|   Semaine 1	| Antoine Paulay  	|  Arnauld T 	|   Damien 	|   	|
 |   Semaine 2	|   	|   	|   	|   	|
 
 
