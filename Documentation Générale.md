@@ -4,7 +4,6 @@
 ### **Téléassistance**
 
 #### Sommaire 
-<toc level=4>
 
 1. ###### Objectifs principal
 2. ###### Objectifs secondaire
@@ -47,10 +46,10 @@ Support Technique; Maintenance Préventive; Formation à Distance; Collaboration
 
 
 
-|   	| Pruduct Owner 	|   Scrum Master 	|   Technicien	|   	|
-|---	|---	|---	|---	|---	|
-|   Semaine 1	| Antoine P 	|  Arnauld T	|   Damien G 	|   	|
-|   Semaine 2	|   	|   	|   	|   	|
+|   	| Pruduct Owner 	|   Scrum Master 	|   Technicien	
+|---	|---	|---	|---	|
+|   Semaine 1	| Antoine P 	|  Arnauld T	|   Damien G 	|   |
+|   Semaine 2	|   	|   	|   	|
 
 
 #### **Choix technique**
