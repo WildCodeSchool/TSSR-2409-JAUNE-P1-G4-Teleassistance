@@ -58,10 +58,10 @@ Support Technique; Maintenance Préventive; Formation à Distance; Collaboration
 #### 5. <a name='Choix technique'></a>**Choix technique**
 
 
-* Virtualbox 7.1.2
-* Windows serveur 2022 
-* Windows 10 Pro 
-* TightVNC version 2.8.8
+* Virtualbox 7.1.2 [lien](https://www.virtualbox.org/)
+* Windows serveur 2022 [lien](https://www.microsoft.com/fr-fr/windows-server)
+* Windows 10 Pro [lien](https://www.microsoft.com/fr-fr/windows/business/windows-10-pro)
+* TightVNC version 2.8.8 [lien](https://www.tightvnc.com/)
 
 
 #### 6. <a name='Difficultés rencontrées'></a>**Difficultés rencontrées**
