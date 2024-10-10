@@ -1,0 +1,1 @@
+# Screenshot installation TightVNC Server
