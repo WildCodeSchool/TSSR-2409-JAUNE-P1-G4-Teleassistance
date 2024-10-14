@@ -8,6 +8,8 @@
 4. ###### [Comment utiliser au mieux les options](#5-Comment-utiliser-au-mieux-les-options)
 5. ###### [FAQ](#6-FAQ)
 
+<!-- vscode-markdown-toc -->
+
 #### 1. <a name='Utilisation de base'></a>**Utilisation de base**
 #### 2. <a name='Comment-utiliser-les-fontionnalités-clés'></a>**Comment utiliser les fontionnalités clés**
 #### 3. <a name='Utilisation-avancée'></a>**Utilisation avancée**
