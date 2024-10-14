@@ -5,20 +5,21 @@
 1. ##### [Prérequis technique](#-Prérequis-technique)
 2. ##### [Etapes d'installation](#-Etapes-d-installation)
    * ###### [Intallation VM Client](#-Intallation-VM-Client)
+   * ###### [Intallation VM Serveur](#-Intallation-VM-Serveur)
 4. ##### [Configuration](#-Configuration)
 5. ##### [FAQ](#-FAQ)
 
 
 
-### 1.<a name='Prérequis technique'></a>Prérequis technique 
+### 1. <a name='Prérequis-technique'></a>Prérequis technique 
 
 * ###### machine avec 500 go de stokage et minimum 16 go de RAM
 * ###### Windows 10 ou 11 ou linux 
 * ###### Logiciel Virtual box 7.1.2 avec ISO Windows 10 pro et Windows serveur 2022
 * ###### Logiciel TightVNC
 
-### 2.<a name='Etapes d-installation'></a>Etapes d'installation
-   ######  <a name='Intallation VM Client'></a>Intallation-VM-Client
+### 2. <a name='Etapes-d-installation'></a>Etapes d'installation
+  * ######  <a name='Intallation-VM-Client'></a>Intallation VM Client
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20113954.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20114112.png)
@@ -61,6 +62,14 @@
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132059.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132119.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132229.png)
+![]( )
+![]( )
+![]( )
+![]( )
+![]( )
+![]( )
+![]( )
+![]( )
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132310.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132323.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132339.png)
@@ -82,47 +91,84 @@
 
 #### Passont a le VM Serveur Windows serveur 2022 
 
+  * ######  <a name='Intallation-VM-Seveur'></a>Intallation VM Serveur
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20150223.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20151518.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20151700.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20152016.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20152230.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20152333.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20152442.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20153457.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20153634.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20153736.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20154020.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20154450.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20154500.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20154840.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20154916.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20155033.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20155228.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20155329.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20155545.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20155640.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160146.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160202.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160356.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160434.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160518.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160613.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160742.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20160929.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161201.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161334.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161354.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161400.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161545.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161753.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161829.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161905.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20161959.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162114.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162254.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162345.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162441.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162602.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162642.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162715.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162925.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163001.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163023.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163119.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163420.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163634.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163634.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163908.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164008.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164154.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164322.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164608.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164653.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164757.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164834.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20164920.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20165046.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20103056.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20103136.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20104713.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20105123.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20105155.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20105239.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20105544.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20113502.png)
+![]( )
 
 
 
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
+
+### 3. <a name='Configuration'></a>Configuration
+
 ![]( )
 ![]( )
 ![]( )
@@ -135,9 +181,6 @@
 ![]( )
 ![]( )
 
-
-
-### 3.<a name='Configuration'></a>Configuration
 etape par etape 
 
-### 4.<a name='FAQ'></a>FAQ
+### 4. <a name='FAQ'></a>FAQ
