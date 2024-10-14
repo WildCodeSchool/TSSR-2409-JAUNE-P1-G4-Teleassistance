@@ -16,6 +16,7 @@
 6. ###### [Solutions trouvées](#7-solutions-trouvées)
 7. ###### [Améliorations possibles](#améliorations-possibles)
 
+<!-- vscode-markdown-toc -->
 
 #### 1. <a name='Objectifs principal'></a>**Objectifs principal**
 
