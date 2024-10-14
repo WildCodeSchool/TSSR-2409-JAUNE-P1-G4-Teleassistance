@@ -51,8 +51,8 @@ Support Technique; Maintenance Préventive; Formation à Distance; Collaboration
 
 |   	| Pruduct Owner 	|   Scrum Master 	|   Technicien	
 |---	|---	|---	|---	|
-|   Semaine 1	| Antoine P 	|  Arnauld T	|   Damien G 	|   |
-|   Semaine 2	|   	|   	|   	|
+|   Semaine 1	| Antoine P 	|  Arnauld T	|   Damien G 	|
+|   Semaine 2	|  Damien G 	|  Antoine P 	|  Arnauld T 	|
 
 
 #### 5. <a name='Choix technique'></a>**Choix technique**
