@@ -6,19 +6,22 @@
 2. ##### [Etapes d'installation](#-Etapes-d-installation)
    * ###### [Intallation VM Client](#-Intallation-VM-Client)
    * ###### [Intallation VM Serveur](#-Intallation-VM-Serveur)
+   * ###### [Intallation TightVNC Serveur](#-Intallation-TightVNC-Serveur)
+  * ###### [Intallation TightVNC Client](#-Intallation-TightVNC-Client)
 4. ##### [Configuration](#-Configuration)
 5. ##### [FAQ](#-FAQ)
 
+<!-- vscode-markdown-toc -->
 
 
-### 1. <a name='Prérequis-technique'></a>Prérequis technique 
+1. ###  <a name='Prérequis-technique'></a>Prérequis technique 
 
 * ###### machine avec 500 go de stokage et minimum 16 go de RAM
 * ###### Windows 10 ou 11 ou linux 
 * ###### Logiciel Virtual box 7.1.2 avec ISO Windows 10 pro et Windows serveur 2022
 * ###### Logiciel TightVNC
 
-### 2. <a name='Etapes-d-installation'></a>Etapes d'installation
+2. ###  <a name='Etapes-d-installation'></a>Etapes d'installation
   * ######  <a name='Intallation-VM-Client'></a>Intallation VM Client
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20113954.png)
@@ -164,11 +167,45 @@
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20113502.png)
 ![]( )
 
+  * ######  <a name='Intallation-TightVNC-Serveur'></a>Intallation TightVNC Serveur
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181314.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181345.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181448.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181620.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181702.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181740.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181758.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181845.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181929.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20181929.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20182134.png)
+
+  * ######  <a name='Intallation-TightVNC-Client'></a>Intallation TightVNC Client
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20182945.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183008.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183044.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183101.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183121.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183207.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183226.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183247.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183301.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183331.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183331.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183405.png)
+![]( )
+![]( )
 
 
 
-### 3. <a name='Configuration'></a>Configuration
+3. ###  <a name='Configuration'></a>Configuration
 
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20182218.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20182235.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20182303.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20182333.png)
 ![]( )
 ![]( )
 ![]( )
@@ -176,11 +213,8 @@
 ![]( )
 ![]( )
 ![]( )
-![]( )
-![]( )
-![]( )
-![]( )
+ 
 
-etape par etape 
+4. ###  <a name='FAQ'></a>FAQ
 
-### 4. <a name='FAQ'></a>FAQ
+
