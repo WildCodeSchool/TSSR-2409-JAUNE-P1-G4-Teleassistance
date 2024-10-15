@@ -224,5 +224,10 @@
  
 
 4. ###  <a name='FAQ'></a>FAQ
+   
+   Ou est installer le programmes ?
+   Comment desinstaller le programme ?
+   Quelles versions de Windows TightVNC prend-il en charge ?
+   Dans quelle mesure TightVNC est-il sécurisé ?
 
 
