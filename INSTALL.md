@@ -1,4 +1,4 @@
-# <center>Documentation Administrateur</center>
+# Documentation Administrateur
 
 <!-- vscode-markdown-toc -->
 
@@ -7,24 +7,31 @@
    * ###### [Intallation VM Client](#-Intallation-VM-Client)
    * ###### [Intallation VM Serveur](#-Intallation-VM-Serveur)
    * ###### [Intallation TightVNC Serveur](#-Intallation-TightVNC-Serveur)
-  * ###### [Intallation TightVNC Client](#-Intallation-TightVNC-Client)
+   * ###### [Intallation TightVNC Client](#-Intallation-TightVNC-Client)
 4. ##### [Configuration](#-Configuration)
 5. ##### [FAQ](#-FAQ)
 
 <!-- vscode-markdown-toc -->
 
 
-1. ###  <a name='Prérequis-technique'></a>Prérequis technique 
+1. ###  Prérequis technique
+   - VM Client :
+      * Virtualisation : VirtualBox 7.1.2
+      * Processeur : 4 Coeurs
+      * RAM : 4 Go
+      * Stockage : 50Go
+      * OS : Windows 10 22H2 
+      * Logiciel TightVNC
 
-* ###### machine avec 500 go de stokage et minimum 16 go de RAM
-* ###### Windows 10 ou 11 ou linux 
-* ###### Logiciel Virtual box 7.1.2 avec ISO Windows 10 pro et Windows serveur 2022
-* ###### Logiciel TightVNC
+2. ###  Etapes d'installation
 
-2. ###  <a name='Etapes-d-installation'></a>Etapes d'installation
-  * ######  <a name='Intallation-VM-Client'></a>Intallation VM Client
+#####  Intallation VM Client
+
+  * Prérequis VirtualBox pour l'installation. 
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20113954.png)
+
+  * 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20114112.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120601.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120642.png)
