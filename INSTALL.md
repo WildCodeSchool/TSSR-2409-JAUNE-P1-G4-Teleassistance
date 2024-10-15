@@ -4,12 +4,12 @@
 
 1. ##### [Prérequis technique](#-Prérequis-technique)
 2. ##### [Etapes d'installation](#-Etapes-d-installation)
-   * ###### [Intallation VM Client](#-Intallation-VM-Client)
    * ###### [Intallation VM Serveur](#-Intallation-VM-Serveur)
+   * ###### [Intallation VM Client](#-Intallation-VM-Client)
    * ###### [Intallation TightVNC Serveur](#-Intallation-TightVNC-Serveur)
    * ###### [Intallation TightVNC Client](#-Intallation-TightVNC-Client)
-4. ##### [Configuration](#-Configuration)
-5. ##### [FAQ](#-FAQ)
+3. ##### [Configuration](#-Configuration)
+4. ##### [FAQ](#-FAQ)
 
 <!-- vscode-markdown-toc -->
 
@@ -20,89 +20,13 @@
       * Processeur : 4 Coeurs
       * RAM : 4 Go
       * Stockage : 50Go
-      * OS : Windows 10 22H2 
-      * Logiciel TightVNC
+      * OS : Windows 10 Professional 22H2 
 
 2. ###  Etapes d'installation
 
-#####  Intallation VM Client
-
-  * Prérequis VirtualBox pour l'installation. 
-
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20113954.png)
+#### Intallation VM Serveur
 
   * 
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20114112.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120601.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120642.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120937.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121301.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121326.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121345.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121410.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122302.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122333.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122400.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122427.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130649.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130723.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130746.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130823.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130922.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130958.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131109.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131126.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131203.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131223.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131251.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131258.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131325.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131348.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131404.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131418.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131438.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131457.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131518.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131558.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131729.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131920.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131947.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132012.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132019.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132059.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132119.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132229.png)
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132310.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132323.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132339.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132357.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132455.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132519.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132534.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132548.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132617.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133158.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133457.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133609.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133844.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133928.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133945.png)
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20134012.png)
-
-#### Une fois les mise a jour effectuer et un reboot votre VM client est prete 
-
-#### Passont a le VM Serveur Windows serveur 2022 
-
-  * ######  <a name='Intallation-VM-Seveur'></a>Intallation VM Serveur
-
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20150223.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20151518.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20151700.png)
@@ -174,6 +98,162 @@
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20105544.png)
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-10%20113502.png)
 ![]( )
+
+#####  Intallation et paramétrage VM Client
+
+* Prérequis VirtualBox pour l'installation. (Une fois l'installation terminée repasser sur les prérequis technique d'origine).
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20113954.png)
+
+* Une fois la VM lancée vous arrivez sur cette page, selectionner les langues à installer ainsi que la disposition du clavier, puis cliquer sur "**Suivant**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20114112.png)
+
+* Cliquez sur "**Installer maintenant**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120601.png)
+
+* En bas à droite cliquez sur "**Je n'ai pas de clé de produit (Product key)**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120642.png)
+
+* Selectionnez "**Windows 10 Professionnel**", puis cliquer sur suivant.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20120937.png)
+
+* Acceptez les termes du contrat de licence, puis cliquer sur suivant.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121301.png)
+
+* Selectionnez l'Installation Personnalisé.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121326.png)
+
+* Cliquez sur suivant (Windows va s'occuper de créer les partitions système automatiquement).
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121345.png)
+
+* L'installation se lance (allez vous faire un maté le temps de l'installation).
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20121410.png)
+
+* Sélectionnez votre région (ici France), puis cliquer sur "**Oui**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122302.png)
+
+* Sélectionnez votre disposition de clavier (ici Français), puis cliquer sur "**Oui**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122333.png)
+
+* Cliquez sur "**Ignorer**" si vous ne souhaitez pas de deuxième disposition clavier. Sinon cliquer sur "**Ajouter une disposition**" et recommencer l'étape précédente avec la seconde disposition clavier voulu.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122400.png)
+
+* Laissez faire (retournez vous faire un autre maté).
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122427.png)
+
+* Sélectionnez "**Configuration pour une utilisation personnelle**", puis cliquer sur "**Suivant**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130649.png)
+
+* Sélectionnez "**Compte hors connexion**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130723.png)
+
+* Sélectionnez "**Expérience limité**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130746.png)
+
+* Dans le champs prévu à cet effet, entrez le nom compte souhaité (ici wilder), puis cliquer sur "**Suivant**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130823.png)
+
+* Dans le champs prévu à cet effet, entrez le mot de passe souhaité (bien vérifier si ce qu'on a saisie est correct en cliquant sur l'oeil à droite du champs de saise), puis cliquer sur "**Suivant**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20130958.png)
+
+* Choisir la question de sécurité (non utiliser), ici nous saisissons une question alèatoirement et mettons 1 dans le champs, puis cliquez sur suivant, répetez cette opération deux fois.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131126.png)
+
+* Sélectionnez "**Non**", puis cliquez sur "**Accepter**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131258.png)
+
+* Sélectionnez "**Non**", puis cliquez sur "**Accepter**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131325.png)
+
+* Sélectionnez "**Envoyer les données de diagnostic obligatoires**", puis cliquez sur "**Accepter**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131348.png)
+
+* Sélectionnez "**Non**", puis cliquez sur "**Accepter**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131404.png)
+
+* Sélectionnez "**Non**", puis cliquez sur "**Accepter**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131418.png)
+
+* Sélectionnez "**Non**", puis cliquez sur "**Accepter**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131438.png)
+
+* Sélectionnez "**Ignorer**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131457.png)
+
+* Cliquez sur "**Pas maintenant**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131518.png)
+
+* Laissez l'installation se finaliser.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131558.png)
+
+* Le bureau se lance sur la session créer précédemment, fermer la fenêtre.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131729.png)
+
+L'installation est désormais terminée vous pouvez maintenant éteindre la VM et repasser sur les prérequis technique d'origine afin d'économiser des ressources. Sinon vous pouvez passer directement au paramétrage du client en procédant comme suit.
+
+* Clique-droit sur le **Menu Démarrer**, puis cliquez sur "**Gestion de l'ordinateur**" 
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131920.png)
+
+* Dans le bandeau de gauche, déroulez "**Utilisateurs et groupes**" et sélectionner "**Utilisateurs**", puis double-cliquez sur le compte que vous avez créer précedemment (ici wilder)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131947.png)
+
+* Sélectionnez "**Membre de**" dans les onglets, et vous assurez que le compte est bien membre du groupe "**Administrateur**" comme ci-dessous.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132019.png)
+
+* Ouvrir une invite de commande (Win+R, saisir cmd, faire Entrée). Dans l'invite de commande saisir `ipconfig` et retrouvez l'addresse APIPA (`169.254.*.*`), cela nous indique la carte réseau à paramétrer (Carte Ethernet 2)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132119.png)
+
+* Clique-droit sur le **Menu Démarrer**, puis cliquez sur "**Connexions réseau**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132229.png)
+
+* Cliquer sur "**Modifier les options d'adaptateur**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132310.png)
+
+* Double-cliquez sur la carte ethernet à modifier (ici Ethernet 2)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132323.png)
+
+* Cliquez sur "**Propriété**" 
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132339.png)
+
+* Double-cliquez sur "**Protocole Internet version 4 (TCP/IPv4)**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132357.png)
+
+* Cochez "**Utiliser l'adresse IP suivante**" et remplir les champs "**Adresse IP**" et "**Masque de sous-réseau**"
+  (ici, `172.16.10.20` pour l'adresse IP et `255.255.255.0` pour le masque de sous-réseau).
+
+  Ensuite, cocher la case "**Valider les paramètres en quittant**", puis cliquer sur "**OK**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132455.png)
+
+* Cliquer sur "**OK**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132519.png)
+
+* Cliquer sur "**Annuler**" (Cette fenêtre s'ouvre car la carte prends ses nouveaux paramétrages, pas d'inquiétude)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132534.png)
+
+* Cliquer sur "**Fermer**".
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132548.png)
+
+* Vérifier que la carte à bien pris en compte son nouveau paramétrage en saisissant à nouveau `ipconfig` dans l'invite de commande. La nouvelle adresse ip et son masque de sous-réseau doivent apparaitre comme ci-dessous.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132617.png)
+
+* Effectuer un `ping` vers le serveur afin de vérifier que le client communique bien avec le serveur. 
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133158.png)
+
+* Effectuer un `ping -4 "nomDuServeur"` afin de voir si la résolution de nom fonctionne correctement.
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133609.png)
+
+* Cliquer sur le menu démarrer et cliquer sur "**Paramètres**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133844.png)
+
+* Cliquer sur "**Mise à jour et sécurtité**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133928.png)
+
+* Cliquer sur "**Rechercher des mises à jour**"
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20133945.png)
+
+* Laisser les mise à jour se télécherger et s'installer, puis redémarrer le poste client. (il est conseillé de relancer une recherche des mise à jour une fois le poste redémarrer afin de voir si tout s'est télécherger et installé correctement).
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20134012.png)
+
+#### Une fois les mise a jour effectuer et un reboot votre VM client est prete 
 
   * ######  <a name='Intallation-TightVNC-Serveur'></a>Intallation TightVNC Serveur
 
