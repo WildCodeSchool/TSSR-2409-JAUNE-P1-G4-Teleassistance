@@ -45,7 +45,7 @@ Support Technique; Maintenance Préventive; Formation à Distance; Collaboration
 |   Semaine 2	|  Damien G 	|  Antoine P 	|  Arnauld T 	|
 
 
- 5.Choix technique
+ 5. Choix technique
 
 
 * Virtualbox 7.1.2 [lien](https://www.virtualbox.org/)
