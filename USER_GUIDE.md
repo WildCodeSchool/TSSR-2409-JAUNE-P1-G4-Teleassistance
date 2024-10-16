@@ -1,16 +1,13 @@
 # Documentation Utilisateur
 
-<!-- vscode-markdown-toc -->
+1. [Utilisation de base](#1-utilisation-de-base)
+2. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés)
+3. [Utilisation avancée](#3-utilisation-avancée)
+4. [Comment utiliser au mieux les options](#4-comment-utiliser-au-mieux-les-options)
+5. [FAQ](#5-faq)
+            
 
-1. ###### [Utilisation de base](#1-Utilisation-de-basel)
-2. ###### [Comment utiliser les fontionnalités clés](#2-Comment-utiliser-les-fontionnalités-clés)
-3. ###### [Utilisation avancée](#4-Utilisation-avancée)
-4. ###### [Comment utiliser au mieux les options](#5-Comment-utiliser-au-mieux-les-options)
-5. ###### [FAQ](#6-FAQ)
-
-<!-- vscode-markdown-toc -->
-
-#### 1. <a name='Utilisation de base'></a>**Utilisation de base**
+# 1. Utilisation de base
 Procédure_Installation
 
 
@@ -73,8 +70,8 @@ Procédure_Installation
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155542.png)
 
 
-#### 2. <a name='Comment-utiliser-les-fontionnalités-clés'></a>**Comment utiliser les fontionnalités clés**
-#### 3. <a name='Utilisation-avancée'></a>**Utilisation avancée**
+# 2. Comment utiliser les fontionnalités clés
+# 3. Utilisation avancée
 
-#### 4. <a name='Comment-utiliser-au-mieux-les-options'></a>**Comment utiliser au mieux les options**
-#### 5. <a name='FAQ'></a>**FAQ**
+# 4. Comment utiliser au mieux les options
+# 5. FAQ
