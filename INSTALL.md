@@ -4,8 +4,19 @@
 
 1. ##### [Prérequis technique](#-Prérequis-technique)
 2. ##### [Etapes d'installation](#-Etapes-d-installation)
+   * ###### [Paramétrage du Serveur Windows 2022](#parametrage-du-serveur-windiws-2022)
+       - ###### 1. Renommage du nom d'hôte du serveur
+       - ###### 2. Désactivation du Parefeu
+       - ###### 3. Activation du Bureau à distance
+       - ###### 4. Modification de la Time Zone (si nécessaire)
+       - ###### 5. Désactivation de "**IE Enhanced Security Configuration**"
+       - ###### 6. Paramétrage de la carte réseau avec une IP statique
+       - ###### 7. Mise à jour système du serveur
    * ###### [Intallation VM Client](#-Intallation-VM-Client)
-   * ###### [Intallation VM Serveur](#-Intallation-VM-Serveur)
+       * ###### 1. Renommage du nom d'hôte client
+       * ###### 2. Ajout de l'utilisateur courant au membre du groupe "**Administrateur**" (activé par défaut)
+       * ###### 3. Paramétrage de la carte réseau avec une IP statique
+       * ###### 4. Mise à jour système du client
    * ###### [Intallation TightVNC Serveur](#-Intallation-TightVNC-Serveur)
    * ###### [Intallation TightVNC Client](#-Intallation-TightVNC-Client)
 4. ##### [Configuration](#-Configuration)
@@ -151,7 +162,7 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20163119.png)
 
-### 6. Paramétrage de la carte réseau avec une IP Static
+### 6. Paramétrage de la carte réseau avec une IP statique
 
 * Paramétrage de la carte réseau. Ouvrir une invite de commande (Win+R, saisir cmd, faire Entrée). Dans l'invite de commande saisir `ipconfig` et retrouvez l'addresse APIPA (`169.254.*.*`), cela nous indique la carte réseau à paramétrer (ici, Carte Ethernet 2)
   
@@ -251,7 +262,7 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-16%20144508.png)
 
-### 2. Ajout de l'utilisateur courant au membre du groupe "**Administrateur**" (normalement activé par défaut)
+### 2. Ajout de l'utilisateur courant au membre du groupe "**Administrateur**" (activé par défaut)
 
 * Clique-droit sur le **Menu Démarrer**, puis cliquez sur "**Gestion de l'ordinateur**".
   
@@ -265,7 +276,7 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20132019.png)
 
-### 3. Paramétrage de la carte réseau avec une IP static
+### 3. Paramétrage de la carte réseau avec une IP statique
 
 * Ouvrir une invite de commande (Win+R, saisir cmd, faire Entrée). Dans l'invite de commande saisir `ipconfig` et retrouvez l'addresse APIPA (`169.254.*.*`), cela nous indique la carte réseau à paramétrer (ici, Carte Ethernet 2).
     
