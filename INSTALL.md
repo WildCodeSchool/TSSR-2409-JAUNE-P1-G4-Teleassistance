@@ -1,29 +1,24 @@
 # Documentation Administrateur
 
-<!-- vscode-markdown-toc -->
-
-1. ##### [Prérequis technique](#-Prérequis-technique)
-2. ##### [Etapes d'installation](#-Etapes-d-installation)
-   * ###### [Paramétrage du Serveur Windows 2022](#parametrage-du-serveur-windiws-2022)
-       - ###### 1. Renommage du nom d'hôte du serveur
-       - ###### 2. Désactivation du Parefeu
-       - ###### 3. Activation du Bureau à distance
-       - ###### 4. Modification de la Time Zone (si nécessaire)
-       - ###### 5. Désactivation de "**IE Enhanced Security Configuration**"
-       - ###### 6. Paramétrage de la carte réseau avec une IP statique
-       - ###### 7. Mise à jour système du serveur
-   * ###### [Intallation VM Client](#-Intallation-VM-Client)
-       * ###### 1. Renommage du nom d'hôte client
-       * ###### 2. Ajout de l'utilisateur courant au membre du groupe "**Administrateur**" (activé par défaut)
-       * ###### 3. Paramétrage de la carte réseau avec une IP statique
-       * ###### 4. Mise à jour système du client
-   * ###### [Intallation TightVNC Serveur](#-Intallation-TightVNC-Serveur)
-   * ###### [Intallation TightVNC Client](#-Intallation-TightVNC-Client)
-4. ##### [Configuration](#-Configuration)
-5. ##### [FAQ](#-FAQ)
-
-
-<!-- vscode-markdown-toc -->
+ 1. [Prérequis technique](#1-prérequis-technique)
+ 2. [Etapes d'installation](#2-etapes-dinstallation)
+*  [Paramétrage du Serveur Windows 2022](#paramétrage-du-serveur-windows-2022)
+      1. [Renommage du nom d'hôte du serveur](#1-renommage-du-nom-dhôte-du-serveur)
+      2. [Désactivation du Parefeu](#2-désactivation-du-parefeu)
+      3. [Activation du Bureau à distance](#3-activation-du-bureau-à-distance)
+      4. [Modification de la Time Zone (si nécessaire)](#4-modification-de-la-time-zone-si-nécessaire)
+      5. [Désactivation de "**IE Enhanced Security Configuration**"](#5-désactivation-de-ie-enhanced-security-configuration)
+      6. [Paramétrage de la carte réseau avec une IP statique](#6-paramétrage-de-la-carte-réseau-avec-une-ip-statique)
+      7. [Mise à jour système du serveur](#7-mise-à-jour-système-du-serveur)
+*  [Paramétrage de la VM Client](#paramétrage-de-la-vm-client)
+      1. [Renommage du nom d'hôte client](#1-renommage-du-nom-dhôte-client)
+      2. [Ajout de l'utilisateur courant au membre du groupe "**Administrateur**" (activé par défaut)](#2-ajout-de-lutilisateur-courant-au-membre-du-groupe-administrateur-activé-par-défaut)
+      3. [Paramétrage de la carte réseau avec une IP statique](#3-paramétrage-de-la-carte-réseau-avec-une-ip-statique)
+      4. [Mise à jour système du client](#4-mise-à-jour-système-du-client)
+*  [Installation de TightVNC Serveur](#installation-de-tightvnc-serveur)
+*  [Installation de TightVNC Client](#installation-de-tightvnc-client)
+  3. [Configuration](#3-configuration)
+  4. [FAQ](#4-faq)
 
 
 # 1. Prérequis Technique
@@ -48,7 +43,7 @@
 ### 1. Renommage du nom d'hôte du serveur
 
 * Sur le **Dashboard**, dans le bandeau de gauche cliquez sur "**Local Server**".
-  
+    
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20154916.png)
 
 * Cliquer sur le nom de l'ordinateur, comme indiqué ci-dessous.
@@ -355,7 +350,7 @@
 
 ---
 
-##  Intallation et paramétrage de TightVNC Serveur
+##  Installation de TightVNC Serveur
 
 * Téléchargement des sources de **TightVNC** depuis le [site éditeur](https://www.tightvnc.com/download.php). Cliquez sur "**Installer for Windows (64-bit)**".
   Une fois le fichier d'installation télécharger le lancer.
@@ -418,7 +413,7 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Server/Capture%20d'%C3%A9cran%202024-10-10%20182333.png)
 
-## Intallation TightVNC Client
+## Installation de TightVNC Client
 
 * Téléchargement des sources de **TightVNC** depuis le [site éditeur](https://www.tightvnc.com/download.php). Cliquez sur "**Installer for Windows (64-bit)**". Une fois le fichier d'installation télécharger le lancer.
     
@@ -569,7 +564,6 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122302.png)
 
-Procédure_Installation
 * Sélectionnez votre disposition de clavier (ici Français), puis cliquer sur "**Oui**".
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20122333.png)
