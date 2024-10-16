@@ -127,7 +127,7 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162254.png)
 
-* CLiquer sur le menu déroulant et choisissez votre time zone parmis les choix dans le menu déroulant.
+* Cliquer sur le menu déroulant et choisissez votre time zone parmis les choix dans le menu déroulant.
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Server/Capture%20d'%C3%A9cran%202024-10-09%20162345.png)
 
