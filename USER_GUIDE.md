@@ -3,10 +3,10 @@
 1. [Utilisation de base](#1-utilisation-de-base) \
             1. [Excuter TightVNC](#1-utilisation-de-tightvnc) \
             2. [Excuter la commande a distance](#2-utilisation-de-la-connexion-bureau-à-distance)
-3. [Comment utiliser les fontionnalités clés](#3-comment-utiliser-les-fontionnalités-clés) \
+2. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés) \
             1. [Utilisation du script](#1-utilisation-du-script)
-4. [Comment utiliser au mieux les options](#4-comment-utiliser-au-mieux-les-options)
-5. [FAQ](#5-faq)
+3. [Comment utiliser au mieux les options](#3-comment-utiliser-au-mieux-les-options)
+4. [FAQ](#4-faq)
             
 
 # 1. Utilisation de base
