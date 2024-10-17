@@ -8,78 +8,78 @@
 
 # 1. Utilisation de base
 
-#### pour TightVNC
+#### Utilisation de TightVNC
 
 
 * Executer le logiciel
 
-  * Vous pouvez cliquer sur l'icone sur votre bureau
+  * Vous pouvez cliquer sur l'icône sur votre bureau.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20112704.png)
 
-  * Ou allez dans la barre rechercher
+  * Ou allez dans la barre "**Rechercher**".
    
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20114233.png)
 
-  * Et recherche TightVNC
+  * Rechercher TightVNC.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20114255.png)
 
-  * Renseigner IP du serveur
+  * Renseigner l'IP du serveur ou son nom d'hôte.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20142619.png)
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20160917.png)
 
-  * Cliquer sur connect
+  * Cliquer sur "**Connect**".
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20160926.png)
 
-  * Renseigner le Mot de passe du serveur qui vous a ete fourni par l'administrateur
+  * Renseigner le Mot de passe du serveur qui vous a été fourni par l'administrateur.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20160939.png))
 
-  * Cliquer sur OK
+  * Cliquer sur "**OK**".
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20160953.png)
 
-  * Vous êtes desormais connecté au serveur
+  * Vous êtes désormais connecté au serveur.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20161056.png)
 
 
-##### Pour Connexion Bureau a distance
+##### Utilisation de la Connexion Bureau à Distance
 
 
-  * Vous pouvez cliquer sur l'icone sur votre bureau
+  * Vous pouvez cliquer sur l'icône sur votre bureau.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20112659.png)
 
-  * Ou allez dans la barre rechercher 
+  * Ou allez dans la barre "**Rechercher**".
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20163025.png)
 
-  * Et chercher Connexion a distance
+  * Et chercher Connexion a distance.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20163050.png)
 
-  * Renseigner l'address IP
+  * Renseigner l'address IP du serveur ou son nom d'hôte.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20153359.png)
 
-  * Connecter vous en Administrator 
+  * Connecter vous en Administrator.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20163652.png)
 
-  * Valider l'identité de l'ordinateur distant
+  * Valider l'identité de l'ordinateur distant.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155734.png)
 
-  * Cocher Ne pas me redemander pour les connexions a cet ordinateur et cliquer sur OUI
+  * Cocher "**Ne pas me redemander pour les connexions a cet ordinateur**" et cliquer sur "**Oui**".
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155727.png)
 
-  * Vous êtes desormais connecté au serveur 
+  * Vous êtes desormais connecté au serveur.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155542.png)
 
@@ -102,32 +102,32 @@
 
 #### pour TightVNC
 
-* Vous pouvez dans les options modifier la qualite d'affichage, modifier les options de votre souris
-  pour le reste il est conseiller de laisser par defaut.
+* Vous pouvez dans les options modifier la qualité d'affichage, modifier les options de votre souris
+  pour le reste il est conseillé de laisser par defaut.
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20093917.png)
 
 
-##### Pour Connexion Bureau a distance
+##### Pour la Connexion Bureau à distance
 
 
-* Avec l'onglet Affichage; vous pouvez choisir la taille du bureau a distance ainsi que la qualité image.
+* Avec l'onglet "**Affichage**"; vous pouvez choisir la taille du bureau à distance ainsi que la qualité image.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094006.png)
 
-* Avec l'onglet Ressources locales; vous pouvez choisir utilisation des périphériques locaux. 
+* Avec l'onglet "**Ressources locales**"; vous pouvez choisir l'utilisation des périphériques locaux. 
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094015.png)
 
-* Avec l'onglet Expérience; vous pouvez choisir d'optimiser les performances en fonction de la qualité de connection. 
+* Avec l'onglet "**Expérience**"; vous pouvez choisir d'optimiser les performances en fonction de la qualité de connection. 
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094025.png)
 
-* Avec l'onglet Avancé; vous pouvez choisir d'etre averti ou non en cas d'echec d'authentification.
+* Avec l'onglet "**Avancé**"; vous pouvez choisir d'être averti ou non en cas d'echec d'authentification.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094033.png)
 
-* Dans la case connexion depuis tout ordinateur; vous laisser les choix par defaut.
+* Dans la case "**connexion depuis tout ordinateur**"; laisser les choix par defaut.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20102635.png)
 
@@ -135,16 +135,16 @@
 # 4. FAQ
 
 **Q.** Y a t'il une version francaise de TightVNC ? \
-**R.** Non pour TightVNC il n'y a que version anglaise.
+**R.** Non pour TightVNC il n'y a que la version anglaise.
 
-**Q.** L'ip reste t'il en memoire ? \
-**R.** Oui pas besoin de vous rapeller L'IP il reste en memoire.
+**Q.** L'IP reste t'il en memoire ? \
+**R.** Oui pas besoin de vous rapeller l'IP reste en memoire.
 
-**Q.** je ne suis pas alaise avec les options avancés ? \
-**R.** Pas de soucis vous pouvez en parlez avec votre administrateur reseaux ou votre prestataire. 
+**Q.** Je ne suis pas à l'aise avec les options avancés ? \
+**R.** Pas de soucis vous pouvez en parlez avec votre administrateur réseau ou votre prestataire informatique. 
 
-**Q.** J'ai supprimer l'icone sur le bureau ? \
-**R.** Pas d'inquitude ce ne sont que des raccorcis vous pouvez rechercher le logiciel dans la barre de recherche.
+**Q.** J'ai supprimé l'icône sur le bureau ? \
+**R.** Pas d'inquiétude ce ne sont que des raccorcis, vous pouvez rechercher le logiciel dans la barre de recherche.
 
-**Q.** Je clique sur l'icone mais rien ne ce passe ? \
-**R.** Vous pouvez redemarer votre ordinateur si le probleme persiste contacter votre administrateur reseaux ou votre prestataire.
+**Q.** Je clique sur l'icône mais rien ne ce passe ? \
+**R.** Vous pouvez redemarer votre ordinateur si le probleme persiste contacter votre administrateur réseau ou votre prestataire informatique.
