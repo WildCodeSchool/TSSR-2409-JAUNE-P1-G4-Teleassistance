@@ -67,5 +67,7 @@ Support Technique; Maintenance Préventive; Formation à Distance; Collaboration
 
 # 8. Améliorations possibles
 
-* Amelioration graphique
-* Ajouter le francais a TightVNC
+* Amelioration graphique.
+* Renforcer la securité de l'infrastructure. Ajout d'un parefeu filtrant.
+* Créer notre propre TightVNC
+* Mise en place d'un VPN pour assurer une connexion distante hors réseau interne
