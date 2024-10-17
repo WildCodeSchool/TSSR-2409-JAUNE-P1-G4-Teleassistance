@@ -61,6 +61,11 @@ Support Technique; Maintenance Préventive; Formation à Distance; Collaboration
 
 # 7. Solutions trouvées
 
+* Verification des paramètres des IP 
+
 
 
 # 8. Améliorations possibles
+
+* Amelioration graphique
+* Ajouter le francais a TightVNC
