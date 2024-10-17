@@ -146,5 +146,5 @@
 **Q.** J'ai supprimer l'icone sur le bureau ? \
 **R.** Pas d'inquitude ce ne sont que des raccorcis vous pouvez rechercher le logiciel dans la barre de recherche.
 
-**Q.** Je clique sur l'icone mais rien ne ce passe ? \ 
+**Q.** Je clique sur l'icone mais rien ne ce passe ? \
 **R.** Vous pouvez redemarer votre ordinateur si le probleme persiste contacter votre administrateur reseaux ou votre prestataire.
