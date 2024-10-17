@@ -13,7 +13,7 @@
 
 * Executer le logiciel
 
-  * Vous pouvez cliquer sur l'icône sur votre bureau.
+  * Vous pouvez double cliquer sur l'icône sur votre bureau.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20112704.png)
 
@@ -51,7 +51,7 @@
 ##### Utilisation de la Connexion Bureau à Distance
 
 
-  * Vous pouvez cliquer sur l'icône sur votre bureau.
+  * Vous pouvez double cliquer sur l'icône sur votre bureau.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20112659.png)
 
@@ -86,28 +86,29 @@
 
 # 2. Comment utiliser les fontionnalités clés
 
-  * Utilisation du script
+##### Utilisation du script
 
-![]()
+  * Vous pouvez double cliquer sur l'icône sur votre bureau.
 
-*
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/image.png)
 
-![]()
+* Cela vous ouvre un terminal powershell
 
-*
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/image3.png)
 
-![]()
+* Le choix 1 vous ouvre TightVNC
 
-*
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/image4.png)
 
-![]()
 
-*
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20142619.png)
 
-![]()
-![]()
-![]()
-![]()
+* Le choix 2 vous ouvre la connextion a distance 
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/image5.png)
+
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20153359.png)
 
 
 # 3. Comment utiliser au mieux les options
