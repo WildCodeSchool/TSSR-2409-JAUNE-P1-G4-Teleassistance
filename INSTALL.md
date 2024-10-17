@@ -15,6 +15,7 @@
       2. [Ajout de l'utilisateur courant au membre du groupe "**Administrateur**" (activé par défaut)](#2-ajout-de-lutilisateur-courant-au-membre-du-groupe-administrateur-activé-par-défaut)
       3. [Paramétrage de la carte réseau avec une IP statique](#3-paramétrage-de-la-carte-réseau-avec-une-ip-statique)
       4. [Mise à jour système du client](#4-mise-à-jour-système-du-client)
+      5. [Ajout du script au démarrage de la session](#5-ajout-du-script-au-démarrage-de-la-session)
 *  [Installation de TightVNC Serveur](#installation-de-tightvnc-serveur)
 *  [Installation de TightVNC Client](#installation-de-tightvnc-client)
   3. [FAQ](#3-faq)
@@ -345,7 +346,38 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20134012.png)
 
-### Une fois les mises à jour effectuée et un reboot, votre client est prete. 
+### 5. Ajout du script au démarrage de la session
+
+* Lancez le menu "**Exécuter**" en appuyant sur les touches **WIN+R**. Et saisissez `shell:startup` dans le champ prévu à cet effet et cliquez sur "**OK**".
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20124513.png)
+
+* Dans l'explorateur de fichier qui vient de s'ouvrir, faites clique-droit > "**Nouveau** > "**Raccourci**"".
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20124623.png)
+
+* Dans la fenètre qui s'est ouverte, saisissez ce qui suit dans le champs prévu à cet effet, puis cliquer sur suivant : \
+  `C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe`
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20124812.png)
+
+* Laissez le nom du raccourci par défaut et cliquez sur "**Terminer**".
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20124843.png)
+
+* Sur le nouveau raccourci qui a été créé, faites clique-droit et cliquez sur "**Propriétés**".
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20124921.png)
+
+* Dans le champ "**Cible**" saisissez ce qui suit à la suite de la cible : \
+`-ExecutionPolicy Unrestricted "C:\Users\wilder\Documents\Scripts\Téléassistance.ps1`
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20125111.png)
+
+* Redémarrer le poste afin de voir si cela fonctionne correctement. Peu de temps après l'ouverture de la session une fenètre PowerShell doit s'ouvrir avec le script. Comme ci-dessous.
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20125356.png)
+
 
 ---
 
