@@ -17,9 +17,8 @@
       4. [Mise à jour système du client](#4-mise-à-jour-système-du-client)
 *  [Installation de TightVNC Serveur](#installation-de-tightvnc-serveur)
 *  [Installation de TightVNC Client](#installation-de-tightvnc-client)
-  3. [Configuration](#3-configuration)
-  4. [FAQ](#4-faq)
-
+  3. [FAQ](#3-faq)
+  4. [Facultatif](#4-facultatif)
 
 # 1. Prérequis Technique
   - VM Client :
@@ -455,21 +454,28 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-10%20183405.png)
 
-
-# 3. Configuration
-
-
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
-![]( )
  
-# 4. FAQ
+# 3. FAQ
 
-# 5. Facultatif 
+### Question fréquentes
+
+**Q.** Pourquoi le Parefeu est-il désactivé ? \
+**R.** Le parefeu a été désactivé afin de ne pas bloquer les communications entre le serveur et le client.
+  
+**Q.** Que faire si l'utilisateur courant du client n'est pas membre du groupe Administrateur ? \
+**R.** Il faut l'ajouter manuellement. Ouvrir la gestion de l'ordinateur > développez Utilisateurs et groupes locaux et selectionner groupe locaux > rechercher le groupe Administrateur > l'ouvrir en double cliquant dessus > allez dans l'onglet Membres > cliquer sur ajouter et entrer le nom du compte dans le champ prévu à cet effet > Redémarrer la session de l'utilisateur si vous êtes connectée avec celle-ci.
+
+**Q.** Je n'aime pas TightVNC. Existe-t-il d'autre solution ? \
+**R.** Il existe en effet d'autres solutions. Cependant, dans notre cas TightVNC est parfait pour notre cas d'usage de part sa légerté, et sa simplicité d'utilisation.
+
+**Q.** Je n'arrive pas à effectuer de ping que ce soit dans un sens ou dans l'autre, une idée ? \
+**R.** Assurez vous que les paramétrages réseau a bien été pris en compte. Vérifiez aussi qu'il n'y a pas eu de faute de frappe lors de la saisie des adresse IP et de masque de sous-réseau. Si dans le centre de partage tout est bon, assurez-vous que les parefeus soient bien déactivés. Vous pouvez aussi vérifier que vous êtes sur le bon réseau interne. Si tous ces paramètres sont remplis il ne devrait pas y avoir d'incident. Dans le cas où le problème persiste reprendre la configuration depuis le début.
+
+**Q.** Lorsque je ping directement le nom d'hôte je reçois une adresse IPv6, pourquoi ? \
+**R.** Pas d'inquiétude, il faut juste ajouté un `-4` afin de lui précisé d'utiliser l'IPv4 -> `ping -4 "nomDHote"`
+
+
+# 4. Facultatif 
 
 ### Installation VM Windows Server
 
