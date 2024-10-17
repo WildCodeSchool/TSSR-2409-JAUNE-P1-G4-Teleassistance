@@ -349,6 +349,8 @@
 
 ### 5. Ajout du script au démarrage de la session
 
+#### Le fichier source du script est disponible [ici](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/tree/main/Scripts).
+
 * Lancez le menu "**Exécuter**" en appuyant sur les touches **WIN+R**. Et saisissez `shell:startup` dans le champ prévu à cet effet et cliquez sur "**OK**".
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20124513.png)
