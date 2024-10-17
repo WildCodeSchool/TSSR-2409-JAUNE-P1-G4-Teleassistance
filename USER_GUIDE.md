@@ -71,7 +71,42 @@ Procédure_Installation
 
 
 # 2. Comment utiliser les fontionnalités clés
+
+  * Utilisation du script
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
 # 3. Utilisation avancée
 
 # 4. Comment utiliser au mieux les options
+
+#### pour TightVNC
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+##### Pour Connexion Bureau a distance
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
 # 5. FAQ
