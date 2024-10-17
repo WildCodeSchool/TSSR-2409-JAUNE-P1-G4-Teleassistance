@@ -1,8 +1,8 @@
 # Documentation Utilisateur
 
 1. [Utilisation de base](#1-utilisation-de-base) \
-            1. [Excuter TightVNC](#utilisation-de-tightvnc) \
-            2. [Excuter la commande a distance](#utilisation-du-script)
+            1. [Excuter TightVNC](#1-utilisation-de-tightvnc) \
+            2. [Excuter la commande a distance](#2-utilisation-du-script)
 3. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés) \
             1. [Utilisation du script](#utilisation-du-script)
 4. [Comment utiliser au mieux les options](#3-comment-utiliser-au-mieux-les-options)
@@ -11,7 +11,7 @@
 
 # 1. Utilisation de base
 
-1. Utilisation de TightVNC
+#### 1. Utilisation de TightVNC
 
 
  Executer le logiciel
@@ -51,7 +51,7 @@
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20161056.png)
 
 
-2. Utilisation de la Connexion Bureau à Distance
+#### 2. Utilisation de la Connexion Bureau à Distance
 
 
   * Vous pouvez double cliquer sur l'icône sur votre bureau.
