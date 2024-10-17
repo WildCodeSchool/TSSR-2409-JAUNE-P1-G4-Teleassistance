@@ -2,19 +2,28 @@
 
 1. [Utilisation de base](#1-utilisation-de-base)
 2. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés)
-3. [Utilisation avancée](#3-utilisation-avancée)
-4. [Comment utiliser au mieux les options](#4-comment-utiliser-au-mieux-les-options)
-5. [FAQ](#5-faq)
+3. [Comment utiliser au mieux les options](#3-comment-utiliser-au-mieux-les-options)
+4. [FAQ](#4-faq)
             
 
 # 1. Utilisation de base
-Procédure_Installation
-
 
 #### pour TightVNC
-* Executer le logiciel  
+
+
+* Executer le logiciel
+
+  * Vous pouvez cliquer sur l'icone sur votre bureau
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20112704.png)
+
+  * Ou allez dans la barre rechercher
    
-![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20142514.png)
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20114233.png)
+
+  * Et recherche TightVNC
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20114255.png)
 
   * Renseigner IP du serveur
 
@@ -26,7 +35,7 @@ Procédure_Installation
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20160926.png)
 
-  * Renseigner le Mot de passe
+  * Renseigner le Mot de passe du serveur qui vous a ete fourni par l'administrateur
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20160939.png))
 
@@ -41,11 +50,16 @@ Procédure_Installation
 
 ##### Pour Connexion Bureau a distance
 
-  * Allez dans la barre rechercher 
+
+  * Vous pouvez cliquer sur l'icone sur votre bureau
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20112659.png)
+
+  * Ou allez dans la barre rechercher 
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20163025.png)
 
-  * Chercher Connexion a distance
+  * Et chercher Connexion a distance
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20163050.png)
 
@@ -53,7 +67,7 @@ Procédure_Installation
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20153359.png)
 
-  * connecter vous en Administrator 
+  * Connecter vous en Administrator 
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20163652.png)
 
@@ -83,9 +97,8 @@ Procédure_Installation
 ![]()
 ![]()
 
-# 3. Utilisation avancée
 
-# 4. Comment utiliser au mieux les options
+# 3. Comment utiliser au mieux les options
 
 #### pour TightVNC
 
@@ -114,9 +127,24 @@ Procédure_Installation
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094033.png)
 
-* Dans la case connexion depuis tout ordinateur; vous laisser les chois par defaut.
+* Dans la case connexion depuis tout ordinateur; vous laisser les choix par defaut.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20102635.png)
 
 
-# 5. FAQ
+# 4. FAQ
+
+**Q.** Y a t'il une version francaise de TightVNC ? \
+**R.** Non pour TightVNC il n'y a que version anglaise.
+
+**Q.** L'ip reste t'il en memoire ? \
+**R.** Oui pas besoin de vous rapeller L'IP il reste en memoire.
+
+**Q.** je ne suis pas alaise avec les options avancés ? \
+**R.** Pas de soucis vous pouvez en parlez avec votre administrateur reseaux ou votre prestataire. 
+
+**Q.** J'ai supprimer l'icone sur le bureau ? \
+**R.** Pas d'inquitude ce ne sont que des raccorcis vous pouvez rechercher le logiciel dans la barre de recherche.
+
+**Q.** Je clique sur l'icone mais rien ne ce passe ? \ 
+**R.** Vous pouvez redemarer votre ordinateur si le probleme persiste contacter votre administrateur reseaux ou votre prestataire.
