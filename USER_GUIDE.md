@@ -89,24 +89,34 @@ Procédure_Installation
 
 #### pour TightVNC
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+* Vous pouvez dans les options modifier la qualite d'affichage, modifier les options de votre souris
+  pour le reste il est conseiller de laisser par defaut.
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20093917.png)
+
 
 ##### Pour Connexion Bureau a distance
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+
+* Avec l'onglet Affichage; vous pouvez choisir la taille du bureau a distance ainsi que la qualité image.
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094006.png)
+
+* Avec l'onglet Ressources locales; vous pouvez choisir utilisation des périphériques locaux. 
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094015.png)
+
+* Avec l'onglet Expérience; vous pouvez choisir d'optimiser les performances en fonction de la qualité de connection. 
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094025.png)
+
+* Avec l'onglet Avancé; vous pouvez choisir d'etre averti ou non en cas d'echec d'authentification.
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20094033.png)
+
+* Dans la case connexion depuis tout ordinateur; vous laisser les chois par defaut.
+
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20102635.png)
+
 
 # 5. FAQ
