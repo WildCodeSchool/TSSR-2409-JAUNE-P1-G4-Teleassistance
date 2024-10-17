@@ -1,7 +1,7 @@
 # Documentation Utilisateur
 
 1. [Utilisation de base](#1-utilisation-de-base) \
-            1. [Excuter TightVNC](#utilisation-du-script) \
+            1. [Excuter TightVNC](#utilisation-de-tightvnc) \
             2. [Excuter la commande a distance](#utilisation-du-script)
 3. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés) \
             1. [Utilisation du script](#utilisation-du-script)
@@ -11,10 +11,10 @@
 
 # 1. Utilisation de base
 
-#### Utilisation de TightVNC
+1. Utilisation de TightVNC
 
 
-1. Executer le logiciel
+ Executer le logiciel
 
   * Vous pouvez double cliquer sur l'icône sur votre bureau.
 
