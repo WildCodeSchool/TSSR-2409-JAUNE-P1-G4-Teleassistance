@@ -16,6 +16,7 @@
       3. [Paramétrage de la carte réseau avec une IP statique](#3-paramétrage-de-la-carte-réseau-avec-une-ip-statique)
       4. [Mise à jour système du client](#4-mise-à-jour-système-du-client)
       5. [Ajout du script au démarrage de la session](#5-ajout-du-script-au-démarrage-de-la-session)
+      6. [Ajout des raccourcis sur le Bureau](#6-ajout-des-raccourcis-sur-le-bureau)
 *  [Installation de TightVNC Serveur](#installation-de-tightvnc-serveur)
 *  [Installation de TightVNC Client](#installation-de-tightvnc-client)
   3. [FAQ](#3-faq)
@@ -377,6 +378,27 @@
 * Redémarrer le poste afin de voir si cela fonctionne correctement. Peu de temps après l'ouverture de la session une fenètre PowerShell doit s'ouvrir avec le script. Comme ci-dessous.
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20125356.png)
+
+### 6. Ajout des raccourcis sur le Bureau
+
+* Sur le "**Bureau**", faites  clique-droit > "**Nouveau** > "**Raccourci**"".
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20133156.png)
+
+* Dans la nouvelle fenètre saisissez ce qui suit, l'opération devra être réaliser pour chaque raccourcis : \
+`C:\Program Files\TightVNC\tvnviewer.exe` -> lien pour **TightVNC** \
+`C:\Users\wilder\Documents\Scripts\Téléassistance.ps1` -> lien pour le script \
+`C:\Windows\system32\mstsc.exe` -> lien pour la **Connexion Bureau à Distance**"
+
+ ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20133602.png)
+
+ * Renommmer le nom du raccourci si vous le souhaitez et faite "**Terminer**".
+   
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20133637.png)
+
+* Les 3 raccourcis sont maintenant sur le bureau comme ci-dessous.
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-17%20125612.png)
 
 
 ---
