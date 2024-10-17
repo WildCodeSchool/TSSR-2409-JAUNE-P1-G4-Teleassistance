@@ -2,11 +2,11 @@
 
 1. [Utilisation de base](#1-utilisation-de-base) \
             1. [Excuter TightVNC](#1-utilisation-de-tightvnc) \
-            2. [Excuter la commande a distance](#2-utilisation-du-script)
-3. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés) \
-            1. [Utilisation du script](#utilisation-du-script)
-4. [Comment utiliser au mieux les options](#3-comment-utiliser-au-mieux-les-options)
-5. [FAQ](#4-faq)
+            2. [Excuter la commande a distance](#2-utilisation-de-la-connexion-bureau-à-distance)
+3. [Comment utiliser les fontionnalités clés](#3-comment-utiliser-les-fontionnalités-clés) \
+            1. [Utilisation du script](#1-utilisation-du-script)
+4. [Comment utiliser au mieux les options](#4-comment-utiliser-au-mieux-les-options)
+5. [FAQ](#5-faq)
             
 
 # 1. Utilisation de base
@@ -89,7 +89,7 @@
 
 # 2. Comment utiliser les fontionnalités clés
 
-##### Utilisation du script
+##### 1. Utilisation du script
 
   * Vous pouvez double cliquer sur l'icône sur votre bureau.
 
@@ -124,7 +124,7 @@
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20093917.png)
 
 
-##### Pour la Connexion Bureau à distance
+#### Pour la Connexion Bureau à distance
 
 
 * Avec l'onglet "**Affichage**"; vous pouvez choisir la taille du bureau à distance ainsi que la qualité image.
