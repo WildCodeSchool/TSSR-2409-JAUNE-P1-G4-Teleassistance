@@ -10,7 +10,7 @@
       5. [Désactivation de "**IE Enhanced Security Configuration**"](#5-désactivation-de-ie-enhanced-security-configuration)
       6. [Paramétrage de la carte réseau avec une IP statique](#6-paramétrage-de-la-carte-réseau-avec-une-ip-statique)
       7. [Mise à jour système du serveur](#7-mise-à-jour-système-du-serveur)
-*  [Paramétrage de la VM Client](#paramétrage-de-la-vm-client)
+*  [Paramétrage du Client Windows 10](#paramétrage-du-client-windows-10)
       1. [Renommage du nom d'hôte client](#1-renommage-du-nom-dhôte-client)
       2. [Ajout de l'utilisateur courant au membre du groupe "**Administrateur**" (activé par défaut)](#2-ajout-de-lutilisateur-courant-au-membre-du-groupe-administrateur-activé-par-défaut)
       3. [Paramétrage de la carte réseau avec une IP statique](#3-paramétrage-de-la-carte-réseau-avec-une-ip-statique)
@@ -21,19 +21,19 @@
   4. [Facultatif](#4-facultatif)
 
 # 1. Prérequis Technique
-  - VM Client :
-      * Virtualisation : VirtualBox 7.1.2
-      * Processeur : 4 Coeurs
-      * RAM : 4 Go
-      * Stockage : 50Go
+  - Client :
       * OS : Windows 10 Professional 22H2
-
-  - VM Serveur :
-      * Virtualisation : VirtualBox 7.1.2
       * Processeur : 4 Coeurs
       * RAM : 4 Go
       * Stockage : 50Go
+
+
+  - Serveur :
       * OS : Windows 2022 21h2
+      * Processeur : 4 Coeurs
+      * RAM : 4 Go
+      * Stockage : 50Go
+
 
 # 2. Etapes d'installation
 
@@ -232,7 +232,7 @@
 
 --- 
 
-##  Paramétrage de la VM Client
+##  Paramétrage du Client Windows 10
 
 ### 1. Renommage du nom d'hôte client
 
