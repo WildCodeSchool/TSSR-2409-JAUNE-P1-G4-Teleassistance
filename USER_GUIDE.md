@@ -1,9 +1,10 @@
 # Documentation Utilisateur
 
 1. [Utilisation de base](#1-utilisation-de-base)
-2. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés)
-3. [Comment utiliser au mieux les options](#3-comment-utiliser-au-mieux-les-options)
-4. [FAQ](#4-faq)
+2. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés) \
+            1. [Utilisation du script](#1-renommage-du-nom-dhôte-du-serveur)
+4. [Comment utiliser au mieux les options](#3-comment-utiliser-au-mieux-les-options)
+5. [FAQ](#4-faq)
             
 
 # 1. Utilisation de base
