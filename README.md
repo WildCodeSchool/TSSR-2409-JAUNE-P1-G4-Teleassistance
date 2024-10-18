@@ -39,7 +39,7 @@ Support Technique; Maintenance Préventive; Formation à Distance; Collaboration
 
 
 
-|   	| Pruduct Owner 	|   Scrum Master 	|   Technicien	
+|   	| Pruduct Owner 	|   Scrum Master 	|   Technicien |	
 |---	|---	|---	|---	|
 |   Semaine 1	| Antoine P 	|  Arnauld T	|   Damien G 	|
 |   Semaine 2	|  Damien G 	|  Antoine P 	|  Arnauld T 	|
