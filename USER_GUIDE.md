@@ -6,7 +6,8 @@
 2. [Comment utiliser les fontionnalités clés](#2-comment-utiliser-les-fontionnalités-clés) \
             1. [Utilisation du script](#1-utilisation-du-script)
 3. [Comment utiliser au mieux les options](#3-comment-utiliser-au-mieux-les-options)
-4. [FAQ](#4-faq)
+4. [Gestionnaire d'identification](#4-gestionnaire-didentification)
+5. [FAQ](#5-faq)
             
 
 # 1. Utilisation de base
@@ -82,21 +83,6 @@
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155727.png)
 
-  *
-![]()
-
-  *
-
-![]()
-  *
-
-![]()
-
-  *
-![]()
-
-  *
-
   * Vous êtes desormais connecté au serveur.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155542.png)
@@ -138,7 +124,6 @@
   
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20093917.png)
 
-
 #### Pour la Connexion Bureau à distance
 
 
@@ -162,8 +147,29 @@
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-17%20102635.png)
 
+# 4. Gestionnaire d'identification
 
-# 4. FAQ
+Cette procédure ne s'applique uniquement dans le cas d'un changement de mot de passe de la session **Administrator** du serveur. Et ne concerne que les incidents de connexion avec la connexion Bureau à Distance.
+
+* Dans le **Menu Démarrarer** recherchez "**Gestionnaire d'identification**", et ouvrez le.
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-18%20121001.png)
+
+* Dans la fenètre quequi s'est ouverte, cliquez sur "**Informations d'identification Windows**".
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-18%20121055.png)
+
+* Dans les "**Informations d'identification Windows**" recherche l'identificant qui correspond au nom d'hôte ou à l'adresse ip (les deux peuvent appraitre), dérouler le menu et cliquer sur "**supprimer**". Pas d'inquiétude celà ne supprime que les informations d'identification et rien d'autre. Il vous faudras juste saisir les identifiant lors de la prochaine connexion avec le **Bureau à Distance.
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-18%20121119.png)
+
+* Cliquez ensuite "**Oui**".
+  
+![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-18%20121159.png)
+
+
+
+# 5. FAQ
 
 **Q.** Y a t'il une version francaise de TightVNC ? \
 **R.** Non pour TightVNC il n'y a que la version anglaise.
