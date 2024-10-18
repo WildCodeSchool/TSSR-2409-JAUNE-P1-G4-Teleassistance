@@ -1,3 +1,7 @@
+![](./image/Install_TightVNC_Cient/Captured'écran2024-10-10182945.png)
+
+
+
 # Documentation Administrateur
 
  1. [Prérequis technique](#1-prérequis-technique)
@@ -703,4 +707,7 @@
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_VM_Client/Capture%20d'%C3%A9cran%202024-10-10%20131729.png)
 
 L'installation est désormais terminée vous pouvez maintenant éteindre la VM et repasser sur les prérequis technique d'origine afin d'économiser des ressources. Sinon vous pouvez passer directement au paramétrage du client en procédant comme suit.
+
+
+
 
