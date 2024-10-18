@@ -7,8 +7,8 @@
 #### Sommaire 
 
 
-1. [Objectifs principal](#1-objectifs-principal)
-2. [Objectifs secondaire](#2-objectifs-secondaire)
+1. [Objectif principal](#1-objectif-principal)
+2. [Objectif secondaire](#2-objectif-secondaire)
 3. [Mise en contexte](#3-mise-en-contexte)
 4. [Membres du grouge de projet](#4-membres-du-grouge-de-projet)
 5. [Choix technique](#5-choix-technique)
@@ -18,14 +18,14 @@
 
 
 
-# 1. Objectifs principal
+# 1. Objectif principal
 
 
 ###### Executer et Configurer un accès sécurisé pour de la téléassistance sur un serveur **Windows Server 2022** en utilisant l'interface graphique depuis un client sous **Windows 10 pro**.
 
 Logiciel utiliser **TightVNC** ainsi que la **Connexion Bureau à distance**
 
-# 2. Objectifs secondaire
+# 2. Objectif secondaire
 
 Cree un script Powershell pour faciliter la connexion initiale de la téleassistance 
 
