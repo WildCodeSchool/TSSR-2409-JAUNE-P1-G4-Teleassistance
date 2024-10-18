@@ -82,6 +82,21 @@
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155727.png)
 
+  *
+![]()
+
+  *
+
+![]()
+  *
+
+![]()
+
+  *
+![]()
+
+  *
+
   * Vous êtes desormais connecté au serveur.
 
 ![](https://github.com/WildCodeSchool/TSSR-2409-JAUNE-P1-G4-Teleassistance/blob/main/image/Install_TightVNC_Cient/Capture%20d'%C3%A9cran%202024-10-16%20155542.png)
